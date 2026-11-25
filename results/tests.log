@@ -1,0 +1,9 @@
+test_gradient (test_core.CoreTests.test_gradient) ... ok
+test_initial_loss (test_core.CoreTests.test_initial_loss) ... ok
+test_logp (test_core.CoreTests.test_logp) ... ok
+test_split (test_core.CoreTests.test_split) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.007s
+
+OK
